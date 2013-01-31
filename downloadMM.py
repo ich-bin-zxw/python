@@ -1,3 +1,4 @@
+#----------------------------authored by zhangxiaowei @ 2013-1-31------------------#
 import re,time
 import threading
 import httplib2
